@@ -1,6 +1,6 @@
 # anduril-moksiskaan
 
-Dockerfile and build context for Moksiskaan version 2.05 (2014-07-22) based on  [anduril-base](https://github.com/Gig77/anduril-base). The Dockerfile does not populate the Moksiskaan database from scratch but imports a database dump, which is part of this repository.
+Dockerfile and build context for Moksiskaan version 2.05 (2014-07-22) on top of  [anduril-base](https://github.com/Gig77/anduril-base). The Dockerfile does not populate the Moksiskaan database from scratch but imports a database dump, which is part of this repository.
 
 # Components
 
