@@ -1,6 +1,6 @@
 # anduril-moksiskaan
 
-Docker image for the [Moksiskaan](http://csbi.ltdk.helsinki.fi/moksiskaan/doc.html) database built on top of [anduril-base](https://github.com/Gig77/anduril-base).
+Docker image for the [Moksiskaan](http://csbi.ltdk.helsinki.fi/moksiskaan/index.html) database built on top of [anduril-base](https://github.com/Gig77/anduril-base).
 
 ## Installation
 
