@@ -25,4 +25,5 @@ ENV CLASSPATH :/opt/moksiskaan/db/etc:/opt/hibernate/lib/jpa/hibernate-entityman
 RUN usermod -a -G postgres anduril
 
 COPY init.sh /home/anduril/init.sh
+RUN chmod 777 /home/anduril/init.sh
 ENTRYPOINT ["/home/anduril/init.sh"]
