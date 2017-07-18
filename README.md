@@ -37,3 +37,11 @@ After successful installation, the following command outputs two example gene na
 
 * Password-less login with user `anduril` (sudoer)
 * Entrypoint to automatically start the PostgreSQL daemon upon login 
+
+## License
+
+Moksiskaan code is available under the GNU General Public License. All rights to its logo has been released into the public domain.
+
+Moksiskaan installation script populates (unless this option has been disabled) your database using KEGG Pathway and Drug database. Please follow their license agreement according to the use of the obtained data.
+
+Some restrictions may apply to DrugBank import when used for commercial purposes. Please ask DrugBank authors for explicit permissions.
